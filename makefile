@@ -1,7 +1,6 @@
-README.md: 
+README.md: guessinggame.sh
 	echo "## GuessingGame" > README.md
 	echo "" >> README.md
-	LC_TIME=en_US.utf8
-	echo $(date) >> README.md
+	date  >> README.md
 	echo "" >> README.md
 	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
