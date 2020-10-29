@@ -1,3 +1,4 @@
+README.md: 
 echo "## GuessingGame" > README.md
 echo "" >> README.md
 LC_TIME=en_US.utf8

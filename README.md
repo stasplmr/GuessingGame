@@ -1,5 +1,5 @@
 ## GuessingGame
 
-Thu 29 Oct 2020 10:12:54 AM EET
+Thu 29 Oct 2020 09:34:00 PM EET
 
-17
+32
